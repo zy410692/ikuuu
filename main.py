@@ -4,7 +4,7 @@ import os
 from datetime import datetime
 
 # 域名配置
-BASE_DOMAIN = "ikuuu.ch"
+BASE_DOMAIN = "ikuuu.de"
 BASE_URL = f"https://{BASE_DOMAIN}"
 
 def print_with_time(message):
